@@ -1,0 +1,8 @@
+jzuluaga,P@ssw0rd123!,True
+mbedoya,S0yS3gur02025*,False
+admin,Admin$2025,True
+felix,Fel123,True
+Ana,Ana123,False
+Nohelia,No123,True
+David,Dav123,True
+Liseth,Lis123,False
